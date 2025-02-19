@@ -35,9 +35,9 @@ I'm a passionate **Backend Developer** who loves building efficient, scalable, a
 ---
 
 ## 📊 GitHub Stats & Streaks
-![Ntokozo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ntokozo&show_icons=true&theme=radical)
-![Ntokozo's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ntokozo&theme=radical)
-![Ntokozo's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ntokozo&layout=compact&theme=radical)
+![Ntokozo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ntokozo31&show_icons=true&theme=radical)
+![Ntokozo's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ntokozo31&theme=radical)
+![Ntokozo's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ntokozo31&layout=compact&theme=radical)
 
 ---
 
