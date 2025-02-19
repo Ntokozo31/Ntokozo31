@@ -52,12 +52,12 @@ Passionate about softwere engineering and web development
 ---
 
 ## 📌 Featured Projects
-_(I'll add my best projects here soon!)_
+https://doctor-booking-system-production.up.railway.app
 
 ---
 
 ## 🌐 Connect with Me
-_[I'll add my social links here]_  
+https://www.linkedin.com/in/ntokozo-dube-090711289
 
 ---
 
