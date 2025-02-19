@@ -63,7 +63,14 @@ https://doctor-booking-system-production.up.railway.app
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg)](https://www.linkedin.com/in/ntokozo-dube-090711289)
-[![Email](https://upload.wikimedia.org/wikipedia/commons/a/a7/Envelope_icon.svg)](mailto:dubentokozo45@yahoo.com)
+## 🌐 Connect with Me
+<a href="https://www.linkedin.com/in/ntokozo-dube-090711289" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg" alt="LinkedIn" width="50"/>
+</a>
+<a href="mailto:dubentokozo45@yahoo.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Envelope_icon.svg" alt="Email" width="50"/>
+</a>
+
 
 
 
