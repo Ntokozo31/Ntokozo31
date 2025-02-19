@@ -6,10 +6,9 @@ I'm a passionate **Backend Developer** who loves building efficient, scalable, a
 
 ---
 
----
-
 ## 🏆 About Me
-I specialize in backend development, focusing on creating robust, scalable, and secure applications. With experience in multiple programming languages and frameworks, I strive to optimize performance and efficiency in every project I undertake. My expertise spans databases, APIs, and server-side logic, ensuring smooth and effective application functionality.
+I specialize in backend development, focusing on creating robust, scalable, and secure applications. With experience in multiple programming languages and frameworks, I strive to optimize performance and efficiency in every project I undertake.
+My expertise spans databases, APIs, and server-side logic, ensuring smooth and effective application functionality.
 Passionate about softwere engineering and web development
 
 ---
