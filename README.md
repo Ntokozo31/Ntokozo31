@@ -14,7 +14,7 @@ I'm a passionate **Backend Developer** who loves building efficient, scalable, a
 https://doctor-booking-system-production.up.railway.app
 
 ## 🌐 Connect with Me
-_(I'll add my social links here)_
+https://www.linkedin.com/in/ntokozo-dube-090711289
 
 ## 🎉 Fun Fact
 I write code like a chef—adding just the right ingredients to cook up something amazing! 🍳💻
