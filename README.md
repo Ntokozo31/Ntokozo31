@@ -4,12 +4,14 @@
 
 I'm a passionate **Backend Developer** who loves building efficient, scalable, and high-performance applications. I enjoy turning complex problems into simple, elegant solutions. 
 
+
 ---
 
 ## 🏆 About Me
 I specialize in backend development, focusing on creating robust, scalable, and secure applications. With experience in multiple programming languages and frameworks, I strive to optimize performance and efficiency in every project I undertake.
 My expertise spans databases, APIs, and server-side logic, ensuring smooth and effective application functionality.
 Passionate about softwere engineering and web development
+
 
 ---
 
@@ -42,6 +44,7 @@ Passionate about softwere engineering and web development
 ![Thunder Client](https://img.shields.io/badge/Thunder_Client-4A90E2?style=for-the-badge&logo=thunder&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
+
 ---
 
 ## 📊 GitHub Stats & Streaks
@@ -49,20 +52,24 @@ Passionate about softwere engineering and web development
 ![Ntokozo's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ntokozo31&theme=radical)
 ![Ntokozo's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ntokozo31&layout=compact&theme=radical)
 
+
 ---
 
 ## 📌 Featured Projects
 https://doctor-booking-system-production.up.railway.app
+
 
 ---
 
 ## 🌐 Connect with Me
 https://www.linkedin.com/in/ntokozo-dube-090711289
 
+
 ---
 
 ## 🎉 Fun Fact
 I write code like a chef—adding just the right ingredients to cook up something amazing! 🍳💻
+
 
 ---
 💡 *Always learning, always growing. Let's build something awesome!* 🚀
