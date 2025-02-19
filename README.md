@@ -62,7 +62,9 @@ https://doctor-booking-system-production.up.railway.app
 ---
 
 ## 🌐 Connect with Me
-https://www.linkedin.com/in/ntokozo-dube-090711289
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg)](https://www.linkedin.com/in/ntokozo-dube-090711289)
+[![Email](https://upload.wikimedia.org/wikipedia/commons/a/a7/Envelope_icon.svg)](mailto:dubentokozo45@yahoo.com)
+
 
 
 ---
