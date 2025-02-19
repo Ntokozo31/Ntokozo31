@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Ntokozo! 👋
 
-<!--
-**Ntokozo31/Ntokozo31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Backend Developer | Problem Solver | Tech Enthusiast**
 
-Here are some ideas to get you started:
+I'm a passionate **Backend Developer** who loves building efficient, scalable, and high-performance applications. I enjoy turning complex problems into simple, elegant solutions. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- **Languages:** JavaScript, Python, C, HTML, CSS  
+- **Backend Frameworks:** Node.js, Express.js, Flask, Django  
+- **Frontend Basics:** Bootstrap, CSS  
+- **Other Tools:** Twilio  
+
+## 📌 Featured Projects
+_(I'll add my best projects here soon!)_
+
+## 🌐 Connect with Me
+_(I'll add my social links here)_
+
+## 🎉 Fun Fact
+I write code like a chef—adding just the right ingredients to cook up something amazing! 🍳💻
+
+---
+💡 *Always learning, always growing. Let's build something awesome!* 🚀
